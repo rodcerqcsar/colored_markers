@@ -4,17 +4,16 @@
 
 
 <p align="center">
-  <img alt="Preview App" src="github/preview.jpg" width="100%">
+  <img alt="Preview App" src="github/colored_markers" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## 🚀 Tecnologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with:
 
-- HTML
 - CSS 
 
-## 💻 Projeto
+## 💻 Project
 
 Different ways to set color values and how to pair colors with each other.
 
@@ -22,5 +21,5 @@ Different ways to set color values and how to pair colors with each other.
 
 No Copyright :wave: by https://www.freecodecamp.org
 
-- [Acesse o projeto finalizado, online](https://rodrigocccesar.github.io/colored_markers)
+- [Access the finished project, online](https://rodrigocccesar.github.io/colored_markers)
 
