@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img alt="Preview App" src="github/colored_markers" width="100%">
+  <img alt="Preview App" src="colored_markers.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologies
